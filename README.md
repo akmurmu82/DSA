@@ -7,7 +7,7 @@ Welcome to my Data Structures and Algorithms (DSA) journey! This repository cont
 
 - [Arrays](arrays/notes.md)
 - [Linked Lists](linked_lists/README.md)
-- [Patterns](patterns/README.md)
+- [Patterns](patterns/)
 - [Sorting](sorting/README.md)
 - [Searching](searching/README.md)
 - [Two Pointer Technique](two_pointer/README.md)
