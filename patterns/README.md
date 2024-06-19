@@ -13,47 +13,6 @@ This folder contains solutions to various pattern printing problems using JavaSc
 
 Function to print a square pattern of asterisks.
 
-```javascript
-/**
- * Function to print a square pattern of asterisks.
- * @param {number} num - The size of the square.
- */
-function square(num) {
-  let pattern = "";
-  for (let i = 0; i < num; i++) {
-    let line = "";
-    for (let j = 0; j < num; j++) {
-      line += "* ";
-    }
-    pattern += "\n";
-    pattern += line;
-  }
-  console.log(pattern);
-}
-
-// Example usage:
-square(5);
-/*
-Output:
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-*/
-```
-
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Navigate to the `patterns` folder.
-3. Run the JavaScript file using Node.js or any JavaScript environment to see the pattern printed in the console.
-
-```sh
-node square.js
-```
-
 ## Contributing
 
 Feel free to contribute by adding new pattern printing problems and solutions or by improving the existing ones. Fork the repository, make your changes, and submit a pull request.
