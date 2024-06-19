@@ -1,7 +1,7 @@
-````markdown
+
 # Patterns
 
-This folder contains solutions to various pattern printing problems using JavaScript. Pattern printing is a common exercise in programming that helps in understanding loops, nested loops, and string manipulation.
+This folder contains solutions to various pattern printing problems using JavaScript. Pattern printing is a common exercise in programming that helps understand loops, nested loops, and string manipulation.
 
 ## Repository Structure
 
@@ -42,7 +42,7 @@ Output:
 * * * * * 
 */
 ```
-````
+
 
 ## How to Use
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 This `README.md` file provides an overview of the `patterns` folder, explaining the purpose and usage of the included pattern printing solution. It should help users understand what the folder contains and how to use the provided code.
-```
+
