@@ -1,6 +1,4 @@
-Sure! Here's a `README.md` file specifically focusing on the two-pointer technique, including explanations and examples:
 
-```markdown
 # Two Pointer Technique
 
 This repository contains my solutions to various problems using the two-pointer technique. The two-pointer technique is a powerful algorithmic approach for solving problems that involve arrays or linked lists. By using two pointers to traverse the data structure, we can often reduce the time complexity of certain problems.
@@ -200,6 +198,5 @@ Feel free to contribute by adding new problems and solutions using the two-point
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 This `README.md` file provides a structured overview of the two-pointer technique with examples and explanations for each problem. It should help you and others navigate the repository easily.
