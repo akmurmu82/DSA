@@ -1,34 +1,24 @@
 # DSA Journey
 
-This repository contains my journey through learning Data Structures and Algorithms (DSA). Below is the structure of the repository:
+Welcome to my Data Structures and Algorithms (DSA) journey! This repository contains my solutions to various DSA problems, organized by the data structures they primarily involve. Each directory contains JavaScript files with problem solutions and relevant documentation.
+.
 
-## Arrays
-- `two_sum.js`: Find two numbers in a sorted array that add up to a given target using the two-pointer technique.
-- `remove_duplicates.js`: Remove duplicates from a sorted array in place.
+## Repository Structure
 
-## Linked Lists
-- `reverse_linked_list.js`: Reverse a linked list.
-- ...
+- [Arrays](arrays/notes.md)
+- [Linked Lists](linked_lists/README.md)
+- [Sorting](sorting/README.md)
+- [Searching](searching/README.md)
+- [Two Pointer Technique](two_pointer/README.md)
 
-## Sorting
-- `bubble_sort.js`: Implementation of bubble sort algorithm.
-- `quick_sort.js`: Implementation of quick sort algorithm.
-- ...
+## How to Use
 
-## Searching
-- `binary_search.js`: Implementation of binary search algorithm.
-- ...
+Navigate to the directory of interest to find specific problems and their solutions. Each directory contains a `README.md` file with detailed explanations and examples.
 
-## Algorithms
-### Two Pointer Technique
-- `two_sum.js`: Find two numbers in a sorted array that add up to a given target using the two-pointer technique.
-- `remove_duplicates.js`: Remove duplicates from a sorted array in place.
-- ...
+## Contributing
 
-### Sliding Window
-- `max_subarray_sum.js`: Find the maximum sum of a subarray of given length using the sliding window technique.
-- ...
+Feel free to contribute by adding new problems and solutions or by improving the existing ones. Fork the repository, make your changes, and submit a pull request.
 
-### Dynamic Programming
-- `fibonacci.js`: Calculate the nth Fibonacci number using dynamic programming.
-- ...
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
